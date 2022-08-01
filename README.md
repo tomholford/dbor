@@ -20,7 +20,7 @@ Encryption is the fundamental backbone of the modern Web. It allows for myriad u
 ## The Right to Compute
 
 - Users are free to execute any binary or executable on their own hardware, or virtual devices under their control (e.g, Virtual Private Servers in the cloud)
-- Users are not not compelled to uninstall or shutdown any program. Similarly, Users cannot be compelled to install or execute a program.
+- Users cannot be compelled to uninstall or shutdown any program. Similarly, Users cannot be compelled to install or execute a program.
 
 ### Rationale
 
