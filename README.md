@@ -4,7 +4,7 @@
 
 This document is a first step to nudge the mainstream discourse around fundamental digital rights for all Users.
 
-Feedback welcome via pull request, Urbit (~datder-sonnet), [Twitter (@tholford)](https://twitter.com/@tholford), or email (info _at_ tholf _dot_ org).
+Feedback welcome via pull request, Urbit (~datder-sonnet), [Twitter (@tholford0)](https://twitter.com/tholford0), or email (info _at_ tholf _dot_ org).
 
 ## Rights
 
