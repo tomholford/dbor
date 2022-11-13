@@ -35,7 +35,7 @@ Centralized app stores operated by both Apple and Google have "pulled" apps prev
 
 Device manufacturers use restrictive terms of service and unfriendly hardware designed to prevent users from repairing or modifying their devices. This practice leads to increased cost, waste and over-dependence on such manufacturers. Further, Users can remove backdoors that are preinstalled on modern CPUs[^6] and 5G hardware[^7].
 
-## The Right to Portability
+## The Right to Export
 
 - Users of centralized providers such as Gmail or iCloud are free to export their data
 - Users are free to import their data to use with other providers, or on onto their own self-hosted alternative
